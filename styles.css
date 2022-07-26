@@ -417,6 +417,7 @@ footer {
   width: 120px;
   height: 120px;
   color: #fff;
+  filter: grayscale(1) invert(1);
 }
 
 .footer__social--link,
